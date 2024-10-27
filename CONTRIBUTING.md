@@ -1,3 +1,5 @@
+Bitte sende eine Email an: liebligs_kollege@firma.com
+
 # Contributing
 
 Your contributions are always welcome!
